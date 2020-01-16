@@ -1,0 +1,21 @@
+{
+  "algo":{
+    "skip_button": "[data-action=skip]",
+    "run_algor":"[data-row-key='streched_graph:efa702a5-1b94-4368-a94b-3f383ace7e01.streched_graph'] > :nth-child(10) > .ant-row-flex > :nth-child(1) > .ant-btn",
+    "add_algo" :"[title='Add Algorithm']",
+    "add_algo_name_field" :"#main\\.name",
+    "build_type_algo_button" :".ant-radio-group > :nth-child(2) > :nth-child(2)",
+    "algo_image_name" :"#image\\.algorithmImage",
+    "algo_submit_button" :".ant-form-item-children > .ant-btn"
+  },
+  "pipline":{
+    "pip_window_button": ".ug_Pipelines > .ant-row-flex > :nth-child(1) > .anticon > #Capa_1",
+    "run_pip": "[data-row-key='streched_graph'] > :nth-child(5) > .ant-row-flex > :nth-child(1) > .ant-btn",
+    "run_stored_pipline": ":nth-child(2) > .ant-row-flex > .ant-col > .ant-btn",
+    "search_in_current_table_pipline": ".ant-input-search > .ant-input"
+  },
+  "general":{
+    "action_tool":".anticon-tool > svg"
+  }
+
+  }

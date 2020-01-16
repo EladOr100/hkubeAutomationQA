@@ -1,0 +1,14 @@
+{
+  "name": "hkube",
+  "version": "1.0.0",
+  "description": "ui testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress"
+  },
+  "author": "EladOr",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^3.8.2"
+  }
+}
